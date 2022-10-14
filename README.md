@@ -1,5 +1,5 @@
 # Workshop pygame
-![pygame-logo](https://raw.githubusercontent.com/pygame/pygame/main/docs/pygame_logo.svg)
+![pygame-logo](https://jeux.developpez.com/tutoriels/Pygame/images/pygame_logo.gif)
 
 ## C'est quoi pygame ?
 `pygame` est une bibliothèque python permettant de créer des interfaces graphiques simplement avec Python !
